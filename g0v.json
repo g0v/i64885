@@ -1,0 +1,41 @@
+{
+  "author": "mindos",
+  "contributors": [
+    "isabel.hou",
+    "zoe",
+    "cpyang"
+  ],
+  "status": "alpha",
+  "name": "i64885",
+  "name_zh": "律師幫幫我",
+  "description": "A request tracking and notification system for legal aid.  Helping political victims in emergency situation.",
+  "description_zh": "法律協助需求追蹤與通知系統",
+  "homepage": "http://i64885.tw/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g0v/i64885"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "keywords": [
+    "pgrest"
+  ],
+  "audience": [
+    "public"
+  ],
+  "products": [
+    "website"
+  ],
+  "projects": [
+    "i64885"
+  ],
+  "thumbnail": "https://raw.github.com/g0v/i64885/master/thumbnail.png",
+  "needs": [
+    "designer",
+    "programmer",
+    "writer"
+  ]
+}

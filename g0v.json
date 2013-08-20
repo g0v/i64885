@@ -7,9 +7,9 @@
   ],
   "status": "alpha",
   "name": "i64885",
-  "name_zh": "律師幫幫我",
+  "name_zh": "i64885公益律師呼叫平台",
   "description": "A request tracking and notification system for legal aid.  Helping political victims in emergency situation.",
-  "description_zh": "法律協助需求追蹤與通知系統",
+  "description_zh": "公益律師呼叫平台",
   "homepage": "http://i64885.tw/",
   "repository": {
     "type": "git",

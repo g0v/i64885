@@ -61,3 +61,7 @@ abort
 Calendar
 
 Details
+
+# License
+
+http://g0v.mit-license.org/
